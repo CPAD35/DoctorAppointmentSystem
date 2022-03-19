@@ -1,0 +1,28 @@
+name: cpad38dev
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - asgiref
+    - beautifulsoup4
+    - certifi
+    - chardet
+    - dj-database-url
+    - Django
+    - django-bootstrap4
+    - django-crispy-forms
+    - django-debug-toolbar
+    - django-heroku
+    - gunicorn
+    - idna
+    - psycopg2
+    - PyGreSQL
+    - python-dateutil
+    - pytz
+    - six
+    - soupsieve
+    - sqlparse
+    - urllib3
+    - whitenoise
