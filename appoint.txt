@@ -6,10 +6,9 @@ Appoint project
 ////
 
 
-1,5. Добавить страницу смены пароля для Moderator
-2. Добавить массовое создание appointment модератором
-3. Добавить разные html страницы
-
+1,5: Add password change page for Moderator
+2. Add mass creation of an appointment by a moderator
+3. Add different html pages
 
  ///
  Customer:
